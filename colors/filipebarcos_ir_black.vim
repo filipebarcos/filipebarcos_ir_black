@@ -94,7 +94,7 @@ hi ErrorMsg         guifg=white       guibg=#FF6C60     gui=BOLD      ctermfg=wh
 hi WarningMsg       guifg=white       guibg=#FF6C60     gui=BOLD      ctermfg=white       ctermbg=darkred     cterm=NONE
 
 " Message displayed in lower left, such as --INSERT--
-hi ModeMsg          guifg=black       guibg=#C6C5FE     gui=BOLD      ctermfg=black       ctermbg=cyan        cterm=BOLD
+hi ModeMsg          guifg=#303030     guibg=darkgreen   gui=BOLD      ctermfg=236         ctermbg=darkgreen   cterm=BOLD
 
 hi CursorLine       guifg=NONE        guibg=NONE        gui=NONE      ctermfg=NONE        ctermbg=233         cterm=NONE
 hi CursorLineNr     guifg=NONE        guibg=#121212     gui=BOLD      ctermfg=red         ctermbg=NONE        cterm=BOLD
