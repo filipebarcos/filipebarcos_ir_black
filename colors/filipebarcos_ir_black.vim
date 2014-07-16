@@ -87,7 +87,7 @@ hi SpecialKey       guifg=#808080     guibg=#343434     gui=NONE      ctermfg=NO
 
 hi WildMenu         guifg=green       guibg=yellow      gui=NONE      ctermfg=black       ctermbg=yellow      cterm=NONE
 hi PmenuSbar        guifg=black       guibg=white       gui=NONE      ctermfg=black       ctermbg=white       cterm=NONE
-"hi Ignore           guifg=gray        guibg=black       gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
+" hi Ignore         guifg=gray        guibg=black       gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
 
 hi Error            guifg=NONE        guibg=NONE        gui=undercurl ctermfg=white       ctermbg=red         cterm=NONE     guisp=#FF6C60 " undercurl color
 hi ErrorMsg         guifg=white       guibg=#FF6C60     gui=BOLD      ctermfg=white       ctermbg=red         cterm=NONE
@@ -96,12 +96,12 @@ hi WarningMsg       guifg=white       guibg=#FF6C60     gui=BOLD      ctermfg=wh
 " Message displayed in lower left, such as --INSERT--
 hi ModeMsg          guifg=black       guibg=#C6C5FE     gui=BOLD      ctermfg=black       ctermbg=cyan        cterm=BOLD
 
-hi CursorLine     guifg=NONE        guibg=NONE        gui=NONE      ctermfg=NONE        ctermbg=233         cterm=NONE
-hi CursorLineNr   guifg=NONE        guibg=#121212     gui=BOLD      ctermfg=red         ctermbg=NONE        cterm=BOLD
-hi CursorColumn   guifg=NONE        guibg=#121212     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=BOLD
-hi MatchParen     guifg=#f6f3e8     guibg=#857b6f     gui=BOLD      ctermfg=white       ctermbg=darkgray    cterm=NONE
-hi Pmenu          guifg=#f6f3e8     guibg=#444444     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
-hi PmenuSel       guifg=#000000     guibg=#cae682     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
+hi CursorLine       guifg=NONE        guibg=NONE        gui=NONE      ctermfg=NONE        ctermbg=233         cterm=NONE
+hi CursorLineNr     guifg=NONE        guibg=#121212     gui=BOLD      ctermfg=red         ctermbg=NONE        cterm=BOLD
+hi CursorColumn     guifg=NONE        guibg=#121212     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=BOLD
+hi MatchParen       guifg=#f6f3e8     guibg=#857b6f     gui=BOLD      ctermfg=white       ctermbg=darkgray    cterm=NONE
+hi Pmenu            guifg=#f6f3e8     guibg=#444444     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
+hi PmenuSel         guifg=#000000     guibg=#cae682     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
 " hi Search         guifg=NONE        guibg=#2f2f00     gui=underline ctermfg=NONE        ctermbg=NONE        cterm=underline
 
 " Syntax highlighting
