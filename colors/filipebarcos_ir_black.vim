@@ -53,6 +53,9 @@
 
 
 " ********************************************************************************
+" To understand what those magical numbers used for cterm colors mean, please check:
+" http://upload.wikimedia.org/wikipedia/en/1/15/Xterm_256color_chart.svg
+" ********************************************************************************
 set background=dark
 hi clear
 
