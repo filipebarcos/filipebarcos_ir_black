@@ -86,7 +86,8 @@ hi Visual           guifg=NONE        guibg=#303030     gui=NONE      ctermfg=NO
 hi SpecialKey       guifg=#808080     guibg=#343434     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
 
 hi WildMenu         guifg=green       guibg=yellow      gui=NONE      ctermfg=black       ctermbg=yellow      cterm=NONE
-hi PmenuSbar        guifg=black       guibg=white       gui=NONE      ctermfg=black       ctermbg=white       cterm=NONE
+hi Pmenu            guifg=black       guibg=green       gui=NONE      ctermfg=black       ctermbg=green       cterm=NONE
+hi PmenuSel         guifg=green       guibg=black       gui=NONE      ctermfg=green       ctermbg=black       cterm=NONE
 " hi Ignore         guifg=gray        guibg=black       gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
 
 hi Error            guifg=NONE        guibg=NONE        gui=undercurl ctermfg=grey        ctermbg=darkred     cterm=NONE     guisp=#FF
@@ -100,8 +101,6 @@ hi CursorLine       guifg=NONE        guibg=NONE        gui=NONE      ctermfg=NO
 hi CursorLineNr     guifg=NONE        guibg=#121212     gui=BOLD      ctermfg=red         ctermbg=NONE        cterm=BOLD
 hi CursorColumn     guifg=NONE        guibg=#121212     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=BOLD
 hi MatchParen       guifg=#f6f3e8     guibg=#857b6f     gui=BOLD      ctermfg=white       ctermbg=darkgray    cterm=NONE
-hi Pmenu            guifg=#f6f3e8     guibg=#444444     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
-hi PmenuSel         guifg=#000000     guibg=#cae682     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
 " hi Search         guifg=NONE        guibg=#2f2f00     gui=underline ctermfg=NONE        ctermbg=NONE        cterm=underline
 
 " Syntax highlighting
